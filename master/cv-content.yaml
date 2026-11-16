@@ -5,8 +5,8 @@
 
 contact:
   name: Alex Example
-  location: Madrid, Spain
-  phone: "+34 600 000 000"
+  location: London, United Kingdom
+  phone: "+44 7700 900000"
   email: alex@example.com
   linkedin: https://www.linkedin.com/in/alex-example/
   # website: alexexample.com   # optional, delete the line if you don't have one
@@ -25,7 +25,7 @@ experience:
   - period: "Jan 2022 - Present"
     title: Product Manager
     company: "Acme (Consumer App)"
-    location: Madrid, Spain
+    location: London, United Kingdom
     sub_roles: []
     bullets:
       - "Redesigned onboarding flow: +25% paid conversion"
@@ -35,7 +35,7 @@ experience:
   - period: "Jun 2019 - Dec 2021"
     title: Analytics
     company: "Beta Corp"
-    location: Barcelona, Spain
+    location: Manchester, United Kingdom
     # Use sub_roles if you were promoted within the same company:
     sub_roles:
       - sub_title: "Senior Analyst (Jan 2021 - Dec 2021)"
@@ -50,12 +50,12 @@ education:
   - period: "Sep 2014 - Jun 2018"
     degree: BSc Economics
     institution: "Example University"
-    location: Madrid, Spain
-    note: "Erasmus exchange in Lyon (2017)"
+    location: London, United Kingdom
+    note: "Year abroad in Lyon (2016-2017)"
 
 skills:
   tools: "SQL, Amplitude, Figma, Notion, Python"
-  languages: "Spanish (Native), English (Fluent)"
+  languages: "English (Native), French (Conversational)"
 
 additional:
   - "Volunteer mentor at a local coding bootcamp"
