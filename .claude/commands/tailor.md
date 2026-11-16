@@ -21,7 +21,11 @@ Identify:
 - JD keywords worth surfacing (tools, methodologies, ways of working)
 - Honest gaps. Do not invent experience.
 
-If a `stories/` folder exists, read any stories that add concrete evidence.
+Also check for extra evidence:
+- `stories/`: STAR stories about specific achievements. Read the ones relevant to this JD.
+- `sources/`: LinkedIn PDF, old CVs, reviews. Skim them if the master CV lacks something the JD asks for.
+
+The master CV stays the source of truth for CV bullets. Stories and sources can add detail to the cover letter. If you find a strong, relevant achievement in stories/sources that is missing from the master, do not add it to the CV silently. Mention it in the final report so the user can decide whether to add it to the master.
 
 ## Step 3: Create application folder
 
@@ -91,3 +95,4 @@ Report:
 - Key tailoring decisions (what changed and why)
 - Honest fit assessment (what maps well, what the gaps are)
 - Any claims you were unsure about
+- Any achievements from stories/ or sources/ worth adding to the master CV

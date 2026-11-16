@@ -3,3 +3,9 @@ applications/*
 !applications/.gitkeep
 *.pdf
 .DS_Store
+
+# Your stories and source material stay private
+stories/*
+!stories/README.md
+sources/*
+!sources/README.md
