@@ -51,7 +51,6 @@ Prompts to try:
 
 ## Tips
 
-- Put more bullets in the master than fit on a page. Tailoring works by choosing.
-- Always read the output before sending. Edit the YAML and recompile if needed.
-- Fonts: uses Helvetica Neue (Mac). On Windows/Linux it falls back to Arial.
-- Your `applications/` folder and PDFs are git-ignored, so they never get pushed.
+- **List everything in your master CV, even if it runs to two pages.** The tool only picks from what's there, then trims each tailored CV to one page.
+- **Always read the PDFs before sending.** To change something, just tell Claude, e.g. *"remove the second bullet and make the PDF again"*.
+- **Your applications stay on your computer.** Nothing in `applications/`, `stories/` or `sources/` is ever uploaded to GitHub.
