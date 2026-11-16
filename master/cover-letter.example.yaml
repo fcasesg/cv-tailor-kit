@@ -1,0 +1,14 @@
+# Example only. /tailor writes a fresh one of these per application.
+meta:
+  date: "16 November 2026"
+  company: Example Co
+  role: Senior Product Manager
+  hiring_manager: ""
+
+body:
+  opening: "Example Co is tackling a problem I have worked on for six years. I bring a track record of improving conversion in subscription products."
+  paragraphs:
+    - "At Acme, I redesigned the onboarding flow and grew paid conversion by 25%."
+    - "Before that, at Beta Corp, I built the first experimentation framework."
+    - "Your focus on retention in the job description maps directly to my recent work."
+  closing: "I'd welcome the chance to discuss how my background maps to what you're building."

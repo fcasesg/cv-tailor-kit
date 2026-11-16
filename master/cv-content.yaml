@@ -1,0 +1,61 @@
+# YOUR MASTER CV. This is the single source of truth.
+# Replace everything below with your own details. /tailor only reorders and
+# selects from what is here, it never invents new experience.
+# Tip: put MORE bullets here than fit on one page; /tailor picks the best ones per job.
+
+contact:
+  name: Alex Example
+  location: Madrid, Spain
+  phone: "+34 600 000 000"
+  email: alex@example.com
+  linkedin: https://www.linkedin.com/in/alex-example/
+  # website: alexexample.com   # optional, delete the line if you don't have one
+
+profile: >-
+  Product Manager with 6 years' experience in B2C subscription apps. Led
+  onboarding and pricing work that grew paid conversion by 25%. Background in
+  economics and data analysis.
+
+highlights:
+  - "Grew paid conversion by 25% by redesigning the onboarding flow at Acme"
+  - "Launched annual plan at Acme: +15% revenue per user"
+  - "Built the company's first experimentation framework at Beta Corp"
+
+experience:
+  - period: "Jan 2022 - Present"
+    title: Product Manager
+    company: "Acme (Consumer App)"
+    location: Madrid, Spain
+    sub_roles: []
+    bullets:
+      - "Redesigned onboarding flow: +25% paid conversion"
+      - "Launched annual plan: +15% revenue per user"
+      - "Ran 40+ A/B tests per year across web and mobile"
+
+  - period: "Jun 2019 - Dec 2021"
+    title: Analytics
+    company: "Beta Corp"
+    location: Barcelona, Spain
+    # Use sub_roles if you were promoted within the same company:
+    sub_roles:
+      - sub_title: "Senior Analyst (Jan 2021 - Dec 2021)"
+        bullets:
+          - "Built the company's first experimentation framework"
+      - sub_title: "Analyst (Jun 2019 - Dec 2020)"
+        bullets:
+          - "Automated weekly KPI reporting, saving 10 hours/week"
+    bullets: []
+
+education:
+  - period: "Sep 2014 - Jun 2018"
+    degree: BSc Economics
+    institution: "Example University"
+    location: Madrid, Spain
+    note: "Erasmus exchange in Lyon (2017)"
+
+skills:
+  tools: "SQL, Amplitude, Figma, Notion, Python"
+  languages: "Spanish (Native), English (Fluent)"
+
+additional:
+  - "Volunteer mentor at a local coding bootcamp"

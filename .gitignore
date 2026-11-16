@@ -1,0 +1,5 @@
+# Personal applications and PDFs stay on your machine
+applications/*
+!applications/.gitkeep
+*.pdf
+.DS_Store
